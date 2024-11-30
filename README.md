@@ -1,6 +1,4 @@
 # ClimateChangeGame-p5
 Hack OHI/O Hackathon - 2023. Won Social Impact
 
-This is the project I made with a few friends in a Hackathon in 2023 called Hack OHI/O.
-
-It is a game that seeks to educate people about money, temperature rise, energy, and balance associated with preventing climate change. We won best social impact.
+A game made for the 2023 Hack OHI/O Hackathon, centered around educating players about the costs and effects of alternative energy sources.
